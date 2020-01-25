@@ -1,7 +1,2 @@
-class Schools
-
-  def initialize(school)
-    @school = school
-  end
-
+class School
 end
