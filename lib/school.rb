@@ -4,7 +4,6 @@ class School
 
   def initialize(name)
     @name = name
-    @roster = roster
     ROSTER << roster
   end
 end
